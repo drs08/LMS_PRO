@@ -14,4 +14,4 @@ Funtions-
 . Add update delete search of lecturers, students, courses, batches etc for Admin
 . Event creation
 
-Tools & Technologies Used – HTML, CSS, BOOTSTRAP, PHP, jQuery, XAMPP, MySQL, CKEditor, jGrowl, Fullcalender
+
